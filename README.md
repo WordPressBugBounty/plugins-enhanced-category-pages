@@ -1,0 +1,1 @@
+# plugins-enhanced-category-pages
